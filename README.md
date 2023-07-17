@@ -1,7 +1,5 @@
 ### Olá você está na minha seção de desenvolvimento 📚
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastuxnet&show_icons=true&theme=dark)
-
 ## Desenvolvendo em:
 
 <div style="display: inline_block"><br/>
